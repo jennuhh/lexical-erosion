@@ -55,4 +55,4 @@ Evidence drawn from:
 This paper is part of a broader research practice examining pattern recognition, cognitive architecture, and the systems through which human understanding is shaped and constrained.
 
 - ORCID: [0009-0008-9557-0300](https://orcid.org/0009-0008-9557-0300)
-- GitHub: [github.com/jaayjaayy](https://github.com/jaayjaayy)
+- GitHub: [github.com/jennuhh](https://github.com/jennuhh)
