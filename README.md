@@ -1,5 +1,7 @@
 # Lexical Erosion
 
+**Jenna Zinn** · [ORCID 0009-0008-9557-0300](https://orcid.org/0009-0008-9557-0300) · May 2026 · *Working paper. Shared for discussion and feedback.*
+
 *How industrial capitalism systematically pruned the human lexicon and what we lost when the words disappeared.*
 
 ---
@@ -44,7 +46,7 @@ Evidence drawn from:
 
 ## Contents
 
-- `Linguistic_Architecture_of_Capitalism.pdf` — Full research paper, 56 citations
+- `Capitalism's Impact on Language.pdf` — Full research paper, 56 citations
 
 ---
 
